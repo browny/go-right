@@ -4,6 +4,10 @@ good golang patterns
 ### Naming
 - https://talks.golang.org/2014/names.slide
 
+### Testing
+- http://blog.codeship.com/testing-in-go/
+- https://github.com/buger/gor
+
 ### Configuration
 - https://github.com/spf13/viper
 
@@ -18,3 +22,4 @@ good golang patterns
 
 ### References
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
+- [Stupid Gopher Tricks](https://talks.golang.org/2015/tricks.slide)
