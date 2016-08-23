@@ -23,3 +23,4 @@ good golang patterns
 ### References
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
 - [Stupid Gopher Tricks](https://talks.golang.org/2015/tricks.slide)
+- [Idiomatic Go Tricks](http://go-talks.appspot.com/github.com/matryer/present/idiomatic-go-tricks/main.slide#1)
