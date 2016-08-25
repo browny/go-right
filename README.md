@@ -25,3 +25,4 @@ good golang patterns
 - [Stupid Gopher Tricks](https://talks.golang.org/2015/tricks.slide)
 - [Idiomatic Go Tricks](http://go-talks.appspot.com/github.com/matryer/present/idiomatic-go-tricks/main.slide#1)
 - [SOLID Go Design](http://dave.cheney.net/2016/08/20/solid-go-design)
+- [Understanding nil](https://youtu.be/ynoY2xz-F8s)
